@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently learning Object Oriented Programming (Java)
+I'm currently learning at HiLCoE School of Computer Science and Technology,Addis Ababa
+
+
 
 
 ## 🌐 Socials:
